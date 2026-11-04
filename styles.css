@@ -7,7 +7,7 @@
 .nav-logo{width:154px;max-height:65px;object-fit:contain;display:block}
 .footer-logo{width:182px;max-width:100%;height:auto;display:block}
 .preview-brand{display:flex;justify-content:center;align-items:center;margin:-8px auto 34px;padding:10px 16px}
-.preview-brand img{width:min(500px,90%);height:auto;display:block;filter:drop-shadow(0 14px 26px #0005)}
+.preview-brand img{width:min(500px,90%);height:auto;display:block;filter:none}
 @media(max-width:700px){.nav-logo{width:118px}.preview-brand{margin:0 auto 20px}.preview-brand img{width:min(350px,100%)}}
 
 /* Launch polish: stronger Reps branding, support and motion */
